@@ -1,9 +1,7 @@
 using System;
-using System.Collections.Generic;
 using Jellyfin.Plugin.MissingEpisodeProvider.Configuration;
 using MediaBrowser.Common.Configuration;
 using MediaBrowser.Common.Plugins;
-using MediaBrowser.Model.Plugins;
 using MediaBrowser.Model.Serialization;
 
 namespace Jellyfin.Plugin.MissingEpisodeProvider
