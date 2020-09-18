@@ -1,0 +1,14 @@
+---
+name: "Missing Episode Provider"
+guid: "BC785400-8541-47CB-B8E8-2E437848C87A"
+version: "1.0.0.0"
+targetAbi: "10.7.0.0"
+overview: "A metadata provider that utilizes TheTVDB API to populate your library with metadata for episodes 'missing' from your collection."
+description: >
+  A metadata provider that utilizes TheTVDB API to populate your library with metadata for episodes 'missing' from your collection.
+category: "General"
+owner: "jellyfin"
+artifacts:
+- "Jellyfin.Plugin.MissingEpisodeProvider.dll"
+changelog: >
+  changelog
