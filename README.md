@@ -17,6 +17,8 @@
 </p>
 
 ## About
+ARCHIVED: Functionality moved to jellyfin-plugin-tvdb.
+
 Jellyfin Missing Episode Provider is a plugin built with .NET that automatically populates your series with missing episode data based on TheTVDB's series data.
 
 ## Build Process
